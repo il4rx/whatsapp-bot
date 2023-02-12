@@ -2,6 +2,7 @@
 Automatic commands for whatsapp, make your whatsapp have <br> automatic commands! and beautify your application <br><br>
 Official Documentation : https://wwebjs.dev/guide/ <br><br>
 `WARN` - This Project Is Open Source, we don't take any copyright here
+`WARN` - We don't take any responsible solution if the package goes offline or glitches
 <br>
 ### Acknowledgement
 - Node.js Download
