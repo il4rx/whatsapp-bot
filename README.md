@@ -36,7 +36,7 @@ After that, run it and scan the QR code.
 | `qrcode-terminal` | `Need/True` | **Required**. Generating QR Code to connect your whatsapp number|
 
 ### EXAMPLE COMMAND
-When user tyoe `!help` the bot will reply this message <br><br>
+When user type `!help` the bot will reply this message <br><br>
 ![ms](https://i.ibb.co/VTvgfKc/Whats-App-Image-2023-02-12-at-11-20-43.jpg)
 
 ## ERR_COMMAND
