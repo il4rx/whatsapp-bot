@@ -1,5 +1,7 @@
 # Web WhatsApp.js Bot
-Automatic commands for whatsapp, make your whatsapp have <br> automatic commands! and beautify your application
+Automatic commands for whatsapp, make your whatsapp have <br> automatic commands! and beautify your application <br><br>
+Official Documentation : https://wwebjs.dev/guide/ <br><br>
+`WARN` - This Project Is Open Source, we don't take any copyright here
 <br>
 ### Acknowledgement
 - Node.js Download
