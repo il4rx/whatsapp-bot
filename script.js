@@ -11,7 +11,7 @@ client.on('qr', (qr) => {
 client.on('ready', () => {
     console.log('Walabi Walabom');
 
-    const number = "xxxxxxxxx"; // Change to the number will send the message when the bot goes online
+    const number = "xxxxxxxxx"; // Change to the number will send the message when the bot goes online dont forget use your country code like +62 or +1
     const text = "..."; // The Message
     const chatId = number.substring(1) + "@c.us";
 
